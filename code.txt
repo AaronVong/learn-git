@@ -1,4 +1,4 @@
 function masterFunction() {
- console.log("hello master");
+ console.log("hello world");
  console.log("second mesage");
 }
