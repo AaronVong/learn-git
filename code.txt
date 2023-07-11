@@ -1,3 +1,4 @@
 function masterFunction() {
  console.log("hello master");
+ console.log("second mesage");
 }
