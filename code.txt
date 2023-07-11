@@ -1,0 +1,3 @@
+function masterFunction() {
+ console.log("hello master");
+}
